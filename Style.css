@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}   
+#Outer
+{
+    font-size: 50px;
+    
+}
+#Inner
+{
+    font-size: small;
+}
